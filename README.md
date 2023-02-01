@@ -1,8 +1,8 @@
 # AIRBNB CLONE V2 PROJECT
 This is a team project by:
 <ul>
-	<li> <a href="github.com/JamalGuyo">Jamal Guyo</a></li>
-	<li> <a href="github.com/AndrewGithinji">Andrew Githinji</a> </li>
+	<li> <a href="github.com/Emarubu">Esther Marubu</a></li>
+	</ul>
 ## originak authors:
 | Tasks | Files | Description |
 | ----- | ----- | ------ |
